@@ -1,0 +1,15 @@
+.vertical-page-spacer {
+   height: 10%;
+}
+
+body {
+   padding-top: 0px;
+ }
+
+ .contact-us-vertical-spacer {
+ 		height: 50px;
+ }
+
+ .btn-custom {
+ 		border-color: #333;
+ }
